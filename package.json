@@ -1,0 +1,16 @@
+{
+  "name": "stylelint-corporate-identity-example",
+  "scripts": {
+    "start": "stylelint \"styles.css\""
+  },
+  "version": "1.0.0",
+  "description": "Example setup for plugin stylelint-corporate-identity",
+  "main": "index.js",
+  "repository": "git@github.com:HenrikFricke/stylelint-corporate-identity-example.git",
+  "author": "Henrik Fricke <henrik.fricke@web.de>",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint": "^7.10.1",
+    "stylelint-corporate-identity": "^0.1.4"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "plugins": ["stylelint-corporate-identity"],
+    "rules": {
+        "corporate-identity/colors": [[ "black", "white" ]]
+    }
+}
