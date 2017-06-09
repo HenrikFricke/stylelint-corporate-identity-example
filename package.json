@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "stylelint": "^7.10.1",
-    "stylelint-corporate-identity": "^0.1.4"
+    "stylelint-corporate-identity": "^0.3.0"
   }
 }

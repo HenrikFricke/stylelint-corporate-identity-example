@@ -291,7 +291,7 @@ error-ex@^1.2.0:
   dependencies:
     is-arrayish "^0.2.1"
 
-escape-string-regexp@^1.0.2:
+escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
@@ -1165,10 +1165,11 @@ stylehacks@^2.3.2:
     text-table "^0.2.0"
     write-file-stdout "0.0.2"
 
-stylelint-corporate-identity@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/stylelint-corporate-identity/-/stylelint-corporate-identity-0.1.4.tgz#2b584b7207c143ac14f43a95ffc6e2d6fc5976a3"
+stylelint-corporate-identity@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/stylelint-corporate-identity/-/stylelint-corporate-identity-0.3.0.tgz#099786215347c9e1e5545b14c7e56eb2f0866e5b"
   dependencies:
+    escape-string-regexp "^1.0.5"
     lodash.isstring "^4.0.1"
     stylelint "^7.10.1"
 
