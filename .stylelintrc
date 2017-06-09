@@ -1,6 +1,6 @@
 {
     "plugins": ["stylelint-corporate-identity"],
     "rules": {
-        "corporate-identity/colors": [[ "black", "white" ]]
+        "corporate-identity/colors": [[ "black", "white", "rgb(52, 156, 191)", "powderblue" ]]
     }
 }
